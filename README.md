@@ -42,3 +42,12 @@ Para omitir pasos, simplemente agregue el argumento -s o --steps a la llamada
 ```
 python3 game.py --input saved/test.pickle --steps 50
 ```
+
+# Integrantes:
+CALDERÓN AGUIRRE SAMUEL ISAÍAS
+CALVA VICENTE DARWIN ESTEBAN
+NARVAEZ NIETO FRANK WILLIAMS
+OJEDA COLÁN DIEGO VALENTÍN
+PAREDES DEMERA ELVIS FABRICIO
+RAMÓN RAMÓN RICARDO ALEXANDER
+TORRES VELEPUCHA JASON DAMIAN
